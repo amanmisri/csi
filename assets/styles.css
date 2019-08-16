@@ -1,0 +1,10 @@
+/* Do not ever touch this file */
+
+.modal-content:not(p) img {
+    max-width: 100%;
+}
+
+.modal-content:not(img) {
+    padding: 0 2em;
+    text-align: start;
+}
